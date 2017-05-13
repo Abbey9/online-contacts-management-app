@@ -26,7 +26,7 @@
 					<li class="active"><a href="<c:url value="/welcome"/>">Home</a></li>
 					<li class="dropdown">
 					
-					<li><a href="<c:url value="allcontacts" />">All Contacts</a></li>
+					<li><a href="<c:url value="/allContacts" />">All Contacts</a></li>
 
 					<li class="dropdown"><a href="#" class="dropdown-toggle"
 						data-toggle="dropdown"><span class="glyphicon glyphicon-user"></span>
