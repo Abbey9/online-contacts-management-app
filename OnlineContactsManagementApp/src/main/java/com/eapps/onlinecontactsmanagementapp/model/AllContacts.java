@@ -136,5 +136,4 @@ public class AllContacts {
 		this.contactNotes = contactNotes;
 	}
 	
-	
 }
