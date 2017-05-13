@@ -11,4 +11,10 @@ public class HomeController {
 		
 		return "welcome";
 	}
+	
+	@RequestMapping("/welcome")
+	public String showHomeLandingPage(){
+		
+		return "welcome";
+	}
 }
