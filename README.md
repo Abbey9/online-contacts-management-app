@@ -11,4 +11,4 @@ Following technologies or softwares have been used to complete this application:
  7. CSS3
  8. BootStrap3
  9. Apache Tomcat-9
- 10.IDE: Eclipse
+ 10.Eclipse IDE
