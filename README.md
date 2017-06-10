@@ -1,5 +1,5 @@
 # online-contacts-management-app
-Online Contacts Management app is a smart online contacts book where you can easily consolidate all your contacts and can view, add , edit and delete your contacts. It makes contact management a breeze so that you stay connected to your contacts anytime anywhere.
+Online Contacts Management app is a smart online contacts book where you can easily consolidate all your contacts and can view, add ,edit, update, save and delete all your contact information online. It makes contact management a breeze so that you stay connected to your contacts anytime anywhere.
 
 Following technologies or softwares have been used to complete this application:
  1. Java-JDK-1.8
@@ -11,4 +11,4 @@ Following technologies or softwares have been used to complete this application:
  7. CSS3
  8. BootStrap3
  9. Apache Tomcat-9
- and  10. Eclipse IDE
+ and 10. Eclipse IDE
